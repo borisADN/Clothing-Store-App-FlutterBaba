@@ -8,11 +8,8 @@
 Our Work.
 ![Aperçu](./preview/preview.png)
 
-
-
-
 Demo
 
-![Demo](assets/preview/demo.gif)
+![Demo](./preview/demo.gif)
 
 
